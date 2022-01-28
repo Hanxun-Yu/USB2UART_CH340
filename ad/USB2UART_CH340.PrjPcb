@@ -114,6 +114,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKDKNGKM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USB2UART_CH340\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
