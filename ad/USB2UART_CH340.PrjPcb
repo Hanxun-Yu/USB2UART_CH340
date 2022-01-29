@@ -47,7 +47,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=lib\PcbLib1.PcbLib
+DocumentPath=lib\usb2uart_ch340.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BYQGNSRT
 
 [Document2]
-DocumentPath=lib\Schlib1.SchLib
+DocumentPath=lib\usb2uart_ch340.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YRNWWCDK
 
 [Document3]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=usb2uart_ch340.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UWUNYKEG
 
 [Document4]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=usb2uart_ch340.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
